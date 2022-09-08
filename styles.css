@@ -1,0 +1,34 @@
+ #title, #description {
+    text-align: center;
+    margin: 20px auto; 
+  }
+ body {
+    padding: 50px;
+    background-color: rgb(40,40,40);
+    color: white;
+    }
+  form {
+    text-align: center; 
+    margin: 0 auto;
+    width: 70%;  
+  }
+  fieldset {
+    margin: 10px;
+    background-color: rgb(70,70,70);
+    border: none;
+    padding: 20px;
+  }
+  textarea, input  {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    width: 95%;
+  }
+  
+  #submit {
+    background-color: rgb(70,70,70);
+    color: white;
+  }
+  
+  
+  
